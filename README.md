@@ -12,7 +12,8 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovitoriaa&layout=compact)](https://github.com/giovitoriaa/github-readme-stats)
 
-  ![image](https://github.com/user-attachments/assets/ebbec369-0a4b-4b86-9b42-3c1805db4635)
+![image](https://github.com/user-attachments/assets/e1917939-251c-4c64-9cd0-295daa5d629a)
+
 
 
 
